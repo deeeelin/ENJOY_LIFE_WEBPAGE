@@ -55,6 +55,7 @@ https://bootstrapious.com/p/bootstrap-sidebar
 Font-awesome: 
 https://fontawesome.com
 
+Markdown visualization from zero-md : https://zerodevx.github.io/zero-md/
 
 **Extern modules**
 
