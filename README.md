@@ -1,3 +1,3 @@
 # PERSONAL_WEBPAGE
 
-url : https://evening-mountain-49439.herokuapp.com/view/login
+url : https://deeeelin.github.io/ENJOY_LIFE_WEBPAGE/
